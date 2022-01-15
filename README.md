@@ -17,7 +17,7 @@ The fields of optimisation, design and development are the reason that keeps me 
 ## GitHub Stats
 
 <div align="center">
-  <img alt="Most Used Languages" width="325" height="210" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irophin&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact">
+  <img alt="Most Used Languages" width="328" height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irophin&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact">
 
   <img alt="GitHub Stats" aligne="center" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=irophin&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs">
 </div>
