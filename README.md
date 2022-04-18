@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">
   &emsp;
-  Hi there, I'm <a href="https://github.com/Irophin">Lilian BAUDRY</a>
+  Hi there, I'm <a href="https://BaudryLilian.github.io/CV-Web/">Lilian BAUDRY</a>
   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="5%">
 </h1>
 
@@ -17,9 +17,9 @@ The fields of optimisation, design and development are the reason that keeps me 
 ## GitHub Stats
 
 <div align="center">
-  <img alt="Most Used Languages" width="328" height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irophin&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact">
+  <img alt="Most Used Languages" width="328" height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BaudryLilian&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact">
 
-  <img alt="GitHub Stats" aligne="center" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=irophin&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs">
+  <img alt="GitHub Stats" aligne="center" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=BaudryLilian&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs">
 </div>
 
 ## Languages and tools
