@@ -9,7 +9,7 @@
 	<br>
 	<br>
 I am a young computer science student passionate about new technologies and in constant search of improvement<br>
-The fields of optimisation, design and development are the reason that keeps me going forward and pushing further
+The fields of optimisation, design and development are the reasons that keep me going forward and pushing further
 	<br>
 	<br>
 </p>
