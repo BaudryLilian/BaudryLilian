@@ -25,13 +25,13 @@
   <a href="https://github.com/Irophin">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&hide=html,css,twig&hide_border=true&custom_title=Used%20Languages&border_radius=15"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&custom_title=Used%20Languages&hide_border=true&border_radius=15&hide=html,css,twig"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
         height="170"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&hide=html,css,twig&hide_border=true&custom_title=Used%20Languages&theme=github_dark&border_radius=15"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&custom_title=Used%20Languages&theme=github_dark&hide_border=true&border_radius=15&hide=html,css,twig"
       />
     </picture>
   </a>
