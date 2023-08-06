@@ -17,41 +17,44 @@ The fields of optimisation, design and development are the reasons that keep me 
 ## GitHub Stats
 
 <div align="center">
-  <img alt="Most Used Languages" width="328" height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Irophin&hide=html&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact&border_radius=10">
-
-  <img alt="GitHub Stats" aligne="center" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Irophin&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs&border_radius=10">
+  <a href="https://github.com/Irophin">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&hide=html,css,twig&hide_border=true&custom_title=Used%20Languages" />
+  </a>
+  <a href="https://github.com/Irophin">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=irophin&show_icons=true&custom_title=GitHub%20Stats&hide=prs&include_all_commits=true&hide_border=true" />
+  </a>
 </div>
 
 ## Languages and tools
 
 <br>
 <div align="center">
-	<a href = "https://fr.wikipedia.org/wiki/JavaScript">
-		<img height="40" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+	<a href = "https://en.wikipedia.org/wiki/TypeScript">
+		<img height="40" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg"/>
 	</a>
 	&emsp;
 	<a href = "https://fr.wikipedia.org/wiki/Git">
-		<img height="40" width="40" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1920px-Git_icon.svg.png"/>
+		<img height="40" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1920px-Git_icon.svg.png"/>
 	</a>
 	&emsp;
-	<a href = "https://fr.wikipedia.org/wiki/HTML5">
-		<img height="40" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+	<a href = "https://en.wikipedia.org/wiki/React_(software)">
+		<img height="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 	</a>
 	&emsp;
-	<a href = "https://fr.wikipedia.org/wiki/C_(langage)">
-		<img height="40" width="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+	<a href = "https://en.wikipedia.org/wiki/Docker_(software)">
+		<img height="40" alt="Docker" src="https://www.svgrepo.com/show/349342/docker.svg"/>
 	</a>
 	&emsp;
-	<a href = "https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade">
-		<img height="40" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+	<a href = "https://en.wikipedia.org/wiki/Sass_(style_sheet_language)">
+		<img height="40" alt="SASS" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
 	</a>
 	&emsp;
-	<a href = "https://fr.wikipedia.org/wiki/Python_(langage)">
-		<img height="42" width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+	<a href = "https://en.wikipedia.org/wiki/Java_(software_platform)">
+		<img height="40" alt="Java" src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-svg-vector.svg"/>
 	</a>
 	&emsp;
 	<a href = "https://fr.wikipedia.org/wiki/Visual_Studio_Code">
-		<img height="40" width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+		<img height="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 	</a>
 </div>
 
