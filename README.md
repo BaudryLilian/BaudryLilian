@@ -25,15 +25,11 @@
   <a href="https://github.com/Irophin">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&hide=html,css,twig&hide_border=true&custom_title=Used%20Languages&theme=github_dark&border_radius=15"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&hide=html,css,twig&hide_border=true&custom_title=Used%20Languages&border_radius=15"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
-        height="200"
+        height="170"
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=irophin&layout=compact&langs_count=8&card_width=320&hide=html,css,twig&hide_border=true&custom_title=Used%20Languages&theme=github_dark&border_radius=15"
       />
@@ -42,15 +38,11 @@
   <a href="https://github.com/Irophin">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=irophin&show_icons=true&custom_title=GitHub%20Stats&hide=prs&include_all_commits=true&hide_border=true&theme=github_dark&border_radius=15"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
         srcset="https://github-readme-stats.vercel.app/api?username=irophin&show_icons=true&custom_title=GitHub%20Stats&hide=prs&include_all_commits=true&hide_border=true&border_radius=15"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
-        height="200"
+        height="170"
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=irophin&show_icons=true&custom_title=GitHub%20Stats&hide=prs&include_all_commits=true&hide_border=true&theme=github_dark&border_radius=15"
       />
